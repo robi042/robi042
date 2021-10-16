@@ -1,4 +1,6 @@
-### Hi , This is Rabiul Hasan👋
+### Hi there, I'm Rabiul Hasan Robi, an aspiring Software Development Engineer. :smiley:
+
+
 
 
 - 🔭 I’m currently working at Online game hosting company as a Software Development
@@ -6,7 +8,7 @@
 - 👯 I’m looking to collaborate opensource
 - 📫 How to reach me: [LinkedIn - @Rabiul Hasan Robi](https://www.linkedin.com/in/rabiul-hasan-robi-93a50b1a9/) , [Facebook- @Rabiul Hasan Robi](https://www.facebook.com/rhrobi.2015/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to listen  music for long time to refresh myself but while coding :P
+- ⚡ Fun fact: I love to listen  music but while coding :P
 -->
  
 
