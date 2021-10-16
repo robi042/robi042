@@ -1,13 +1,12 @@
-### Hi , This is Abdul Kayuem👋
+### Hi , This is Rabiul Hasan👋
 
 
-- 🔭 I’m currently working at Best Business Bond Limited(Troyee) as a Mobile application Developer
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working at Online game hosting company as a Software Development
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate opensource
-- 💬 Ask me about Android or Any Tech Related or Java 
-- 📫 How to reach me: [LinkedIn - @Abdul Kayuem](https://www.linkedin.com/in/abdul-kayuem-a05a4714b/) , [Stack Overflow - @abdul_kayuem](https://stackoverflow.com/users/13137312/abdul-kayuem)
+- 📫 How to reach me: [LinkedIn - @Rabiul Hasan Robi](https://www.linkedin.com/in/rabiul-hasan-robi-93a50b1a9/) , [Facebook- @Rabiul Hasan Robi](https://www.facebook.com/rhrobi.2015/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I heard 12 hours songs ! But, With coding :p 
+- ⚡ Fun fact: I love to listen  music for long time to refresh myself but while coding :P
 -->
  
 
