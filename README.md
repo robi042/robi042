@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working at Online game hosting company as a Software Development
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working with Node, Express, Nest, Typescript, SQL, NoSQL, Microservices, Serverless, CI/CD, AWS, Java, Android
+- 🌱 I’m currently learning Next
 - 👯 I’m looking to collaborate opensource
 - 📫 How to reach me: [LinkedIn - @Rabiul Hasan Robi](https://www.linkedin.com/in/rabiul-hasan-robi-93a50b1a9/) , [Facebook- @Rabiul Hasan Robi](https://www.facebook.com/rhrobi.2015/)
 - 😄 Pronouns: He/His
