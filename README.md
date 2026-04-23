@@ -22,7 +22,7 @@ I'm passionate about building robust and scalable applications. Here's a bit abo
 
 - 📫 **Reach me via**:  
   - [LinkedIn](https://linkedin.com/in/rabiul-hasan-robi)  
-  - [Facebook](https://facebook.com/rabiul.hasan.robi)
+  - [Facebook](https://facebook.com/officialrabiulrobi)
 
 - 😄 **Pronouns**: He/His
 
